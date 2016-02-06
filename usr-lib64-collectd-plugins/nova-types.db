@@ -1,0 +1,8 @@
+servers   count:GAUGE:0:U, load:GAUGE:0:U
+disk      local:GAUGE:0:U, local_used:GAUGE:0:U, free:GAUGE:0:U, disk_available_least:GAUGE:0:U
+instances value:GAUGE:0:U
+vcpus     value:GAUGE:0:U
+images    value:GAUGE:0:U
+flavors   value:GAUGE:0:U
+service   count:GAUGE:0:U, up:GAUGE:0:U, enabled:GAUGE:0:U
+boot      value:GAUGE:0:U
